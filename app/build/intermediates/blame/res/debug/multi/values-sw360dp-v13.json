@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "C:\\Users\\dell\\Desktop\\and-nd-firebase-1.00-starting-point\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 65,
+                    "endOffset": 116
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\.android\\build-cache\\f35cd635c8eb3ebea95734a32ed1594c7bbb907a\\output\\res\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 65,
+                        "endOffset": 116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 121,
+                    "endColumn": 62,
+                    "endOffset": 179
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\.android\\build-cache\\f35cd635c8eb3ebea95734a32ed1594c7bbb907a\\output\\res\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 121,
+                        "endColumn": 62,
+                        "endOffset": 179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 184,
+                    "endColumn": 56,
+                    "endOffset": 236
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\.android\\build-cache\\f35cd635c8eb3ebea95734a32ed1594c7bbb907a\\output\\res\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 184,
+                        "endColumn": 56,
+                        "endOffset": 236
+                    }
+                }
+            }
+        ]
+    }
+]

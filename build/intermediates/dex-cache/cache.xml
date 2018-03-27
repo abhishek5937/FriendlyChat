@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\0cbda3043dc4ee615e8e3921af4097c3d9c7b737\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5839ac66b6cefcd91ca7411969efcc3a63f5d93d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_042407663a47382a0dffa38985360b1f0ea9c66f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.1\b9d63507329a7178e026fc334f87587ee5070ac5\gson-2.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.1_2d60c7a636104ac8ed66aef705b60926ef88b5fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\.android\build-cache\39608f5ebe03125e655744a9c4776da282cfaa30\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da832806828ba407284c0c4b1d87b8f9ed9f2520">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\pre-dexed\debug\classes_e947b1a98d316ec5cefe7b44acd20b250b732fda.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\724959b95ef7c669d665ee8ccc548297e44d5db4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ca146135395ac341f0055099efee44954459a4b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\.android\build-cache\0e4fc3d05b4af0e7ac86d9eda4eb444e968fec28\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\pre-dexed\debug\classes_640422ffdf494475bc8106c447fb70b3eef38bbc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ce699c1a9dcde8ad2722bcd63fafc956d7c14cf5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.gradle\caches\modules-2\files-2.1\com.twitter\twitter-text\1.13.0\78415b95ae3184c5926d593feab64bfc0b73b2dd\twitter-text-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78415b95ae3184c5926d593feab64bfc0b73b2dd">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\twitter-text-1.13.0_efc7acedfe910923501d83415a321316b4e5627b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\.android\build-cache\6d3cc1c010b497c7ed0bd6ecd427bef1df29bc56\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\pre-dexed\debug\classes_0f4f248fb31220890ba16b7cddfb7dd0d13a13f9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\57226a06dc32c8a7e2bd37774ad9afcedcb070d5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d4c81d965bea5a005d389c43879db1e94ccea6ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\f8203a4b34b6bf4185a03072795354e7e01e8fb4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f195c00c401e63189693bbf635d9dc91be07091e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\5733603d967f3e07b00464702664dea8ea9ac030\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cb2a191ba554e42a310bbfbf421122813e3ee9a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\.android\build-cache\493b1db18a2b1d6d28f02703473c05c84495b4f4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\pre-dexed\debug\classes_14458e3804f50dd610d0c5b64b59abd5be0a0c83.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_efe17a59a13fe005592bf86b13ebb2ac83647fca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\f35cd635c8eb3ebea95734a32ed1594c7bbb907a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1395232a7eddc612029353b3c953cb0fced71076">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_95521a2d2e38bc77a984a45be86e71ba5a6a7676\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\fdd0649e14e2a9675966c9ca3b1865567a28a49c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a3ad5f2318eae88293381b4051d30db0359106e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\73e396e15524fa147242c2b9eede21ff50eb5a75\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a534044236cf81b002604643d23e7ca56bd1ee0">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_94058a7236cfeec766c1b150dfdfb9cbb18f0128\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\f55982a9e34f7da7e78efd66672702a226be80c7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7308fa2037dac339ea04b90cdd17e87f835ea294">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a3ab69da80d0c2220f8c0fda7ec838107b94e0fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\.android\build-cache\632b8a74bf6c50222e29ccc422c37b29957a7123\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\pre-dexed\debug\classes_dcf76a8fe07d2765a3c6fca1129f7018b669d6e7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_0d85b07ebfb569da435bfd0b05b458888b129b28\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\.android\build-cache\447d42384377c3108b3717d42563f87029988ca9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\pre-dexed\debug\classes_5d525b90426ff496e4432307c9ab05a3fde13ab8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\6445d22ab9c7c2f05d5706c6c221f9d4716d84fc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b831d3902674d096189451d46fce219e2c2904b7">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_11fa493120dc3ebc554b5a772826e0c16545b60e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\c285bd48858989a76210942a15305c2c3e7de82d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a10ed1f1cff990ef081263ad33f13dc6c207eb4e">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_98487b7d5888869e577703150bdfff6e007157cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\7941a9435441ca0368a88b6b4a60adb28b77d69a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d79c575e1d97b0298746a4c032a0c1dc201c2f82">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8422d76801db274b3e07442528671477c1f214f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_3a30463cac59973c0db6d49cb071ec581c85cbe0\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\.android\build-cache\21993a71915f45be5ce370fe7706f6cb587e4f55\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\pre-dexed\debug\classes_600d7b937db5c44424d339bf0e2d7f459085b825.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_ed808be6a882394460f3870fec1c59f234f1ba50\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\.android\build-cache\aa1c18fd1c9dd6da551c02b38c27505a4125dccf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de24d8023e8da79f30bee46b298f606e5e758432">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\pre-dexed\debug\classes_d83089b53628578f4dd5ec670030710496d37c93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.1\86b122e640af09b0723e1fa44083c354ba6d9089\glide-3.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\pre-dexed\debug\glide-3.6.1_3fb1d293d5fe0e59cdcf16a11fd7e61cb92bfcc3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\6d3cc1c010b497c7ed0bd6ecd427bef1df29bc56\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0f4f248fb31220890ba16b7cddfb7dd0d13a13f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\11be8860b96741a9fd188ac8c8806d183e05311d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f83a631abfdb790591a720e0cfb5f41329831c3">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aa1d0ac0bf1c88862b38ea373fb29c85ba6aecc5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\22a90a2f4388dee1b900c404a385e77517680e23\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_508cf22ba46ca1879823b8b996afe086159594c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\eefc20cdba6c6b71bf5cc725a2d9e9fd2547ef14\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4e01b82d664e1a8253b2b9658e74b5da35c8771d">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_07b4ec20f8bc1eed096a276f36565f37db7501df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\742f92c2755fde7f38ca4ae28a35c8908ee625e5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9680ed099744d3190ef7559e45ce8c707e365f23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\65aae1108ecc339f8bf1ed9f5a2851f9165cd2b4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7b3eaf755284fb08a6d616a55fbb07dc3917d5e7">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_de83aa656e662332ae038fef95ee5f4dfb6ab1a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.2\f8d87f15b94b8d74e7ccf61d7eedb558811cdb30\converter-gson-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.0.2_71c4048707c051246f2d44b01521518a7671c88f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\2352216ece0cfa24a0a31842665a10f9afc357e1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_78e15c2959166698e12402bb636e99b59e8262dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\.android\build-cache\8354da469a74697916f89c18edbc7e5ebc7a94f6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c1f80f62ccad560edcd6609fc75f385cf7cb45a">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\pre-dexed\debug\classes_d725299333e82ed413430718a555990b75e80689.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\.android\build-cache\0cbda3043dc4ee615e8e3921af4097c3d9c7b737\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\pre-dexed\debug\classes_5839ac66b6cefcd91ca7411969efcc3a63f5d93d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\.android\build-cache\724959b95ef7c669d665ee8ccc548297e44d5db4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\pre-dexed\debug\classes_ca146135395ac341f0055099efee44954459a4b4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\fd8481884feae27aa297e4afd527eab192e6c3ea\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_46a21921d935bdb5968be60aba8e07c65225b114\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\39608f5ebe03125e655744a9c4776da282cfaa30\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da832806828ba407284c0c4b1d87b8f9ed9f2520">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e947b1a98d316ec5cefe7b44acd20b250b732fda\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\.android\build-cache\57226a06dc32c8a7e2bd37774ad9afcedcb070d5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\pre-dexed\debug\classes_d4c81d965bea5a005d389c43879db1e94ccea6ad.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.2\43eeae0b9fb087bb3194ba59ab63a38a32fbf3e\retrofit-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.2_dccb30990ba4892c2a6d4fa99da7af40f72d24b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\2f403796a544923fb0470e8d6680de96b2869a76\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a319fd4d548ba4cc9511561d37109ba922bfbf6a">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d837fba54c3dba16c595f379cc12c9eb88927c6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\.android\build-cache\f8203a4b34b6bf4185a03072795354e7e01e8fb4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\pre-dexed\debug\classes_f195c00c401e63189693bbf635d9dc91be07091e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\.android\build-cache\73e396e15524fa147242c2b9eede21ff50eb5a75\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a534044236cf81b002604643d23e7ca56bd1ee0">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\pre-dexed\debug\classes_94058a7236cfeec766c1b150dfdfb9cbb18f0128.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\9087ac05d5315cae1a2293f930168c5ce2af2508\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="895c63ba9782b04f0c5da69205216f6ec87119eb">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5d815e8808277bffcae58bec8302a1061199281e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\3abc2e2611bb2745e43e994ed05b872a7dff8b15\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c6047a34af07d6ec4e950ba1dc70ce23ac65ecaa">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7e82314018bd48ed46058b10209450d940a5457f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\30b9e925291cfde705b0900aca0f757595147a33\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_41cf48da66acce82db275089e90434a44e2e51ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_042407663a47382a0dffa38985360b1f0ea9c66f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\0dcab9190f459eae45f65ad6c78bec2693e6c1b9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4d28e9954f9b1e05d9a6ed138c6f364231e96ac3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_b6ab804e3814861ac33411cd5ddea894f8a39dad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\990643ffceaf265f4d665d169bfbac7839ce4e44\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="343ad59d9fb3bbf6ab99baafad859eb4b0fecc02">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e442326fdb7929413c89935474edd41e453721a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\21993a71915f45be5ce370fe7706f6cb587e4f55\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_600d7b937db5c44424d339bf0e2d7f459085b825\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\.android\build-cache\3ce4e0fc9f86028acf3cfa6f8c9d46e9748a22d1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\pre-dexed\debug\classes_c155401037cb9719d0fbe6ddfd7e4f3196458555.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\.android\build-cache\7941a9435441ca0368a88b6b4a60adb28b77d69a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d79c575e1d97b0298746a4c032a0c1dc201c2f82">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\pre-dexed\debug\classes_8422d76801db274b3e07442528671477c1f214f2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\7bbb10c03e259aec7f1e7637f25cacd9c2762ae5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0558e5b6c171bd6719581340f9ac6be4af5ae265">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8edb77a8a2b72dd0c46d0b90714b3e1d898a7de0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\aa1c18fd1c9dd6da551c02b38c27505a4125dccf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de24d8023e8da79f30bee46b298f606e5e758432">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d83089b53628578f4dd5ec670030710496d37c93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\3d6ce46ba7703a4dd76fe2c6276ffe36985462eb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_68185c1ff6d600a4d9f0ad30c79900cb2aee4122\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\.android\build-cache\22a90a2f4388dee1b900c404a385e77517680e23\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\pre-dexed\debug\classes_508cf22ba46ca1879823b8b996afe086159594c9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\f5e5bb9c9dc8c304ad5843589d8d5b811b62ad0f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_33a76f8c8675d87c19e732d6c9f2a9c3fc59cf27\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\.android\build-cache\11be8860b96741a9fd188ac8c8806d183e05311d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f83a631abfdb790591a720e0cfb5f41329831c3">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\pre-dexed\debug\classes_aa1d0ac0bf1c88862b38ea373fb29c85ba6aecc5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f432a65e24a62637f134cb341668b34222dc50ec">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ee52cec0e0b21e88965f5b51f934b5d5361f277d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\8354da469a74697916f89c18edbc7e5ebc7a94f6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c1f80f62ccad560edcd6609fc75f385cf7cb45a">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d725299333e82ed413430718a555990b75e80689\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\.android\build-cache\2352216ece0cfa24a0a31842665a10f9afc357e1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="C:\Users\dell\Desktop\and-nd-firebase-1.00-starting-point\app\build\intermediates\pre-dexed\debug\classes_78e15c2959166698e12402bb636e99b59e8262dc.jar" />
+    </item>
+
+</items>

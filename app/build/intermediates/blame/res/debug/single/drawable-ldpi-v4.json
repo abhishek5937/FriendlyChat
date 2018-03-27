@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\and-nd-firebase-1.00-starting-point\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
+        "source": "C:\\Users\\dell\\Desktop\\and-nd-firebase-1.00-starting-point\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\and-nd-firebase-1.00-starting-point\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_mail_white_24dp.png",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\f35cd635c8eb3ebea95734a32ed1594c7bbb907a\\output\\res\\drawable-ldpi-v4\\ic_mail_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\and-nd-firebase-1.00-starting-point\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_facebook_white_22dp.png",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\f35cd635c8eb3ebea95734a32ed1594c7bbb907a\\output\\res\\drawable-ldpi-v4\\ic_facebook_white_22dp.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\and-nd-firebase-1.00-starting-point\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_googleg_color_24dp.png",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\f35cd635c8eb3ebea95734a32ed1594c7bbb907a\\output\\res\\drawable-ldpi-v4\\ic_googleg_color_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\and-nd-firebase-1.00-starting-point\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_twitter_bird_white_24dp.png",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\f35cd635c8eb3ebea95734a32ed1594c7bbb907a\\output\\res\\drawable-ldpi-v4\\ic_twitter_bird_white_24dp.png"
+    }
+]

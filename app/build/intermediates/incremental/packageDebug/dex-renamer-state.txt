@@ -1,0 +1,7 @@
+#Sat Jun 03 12:55:26 IST 2017
+base.0=C\:\\Users\\dell\\Desktop\\and-nd-firebase-1.00-starting-point\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ce699c1a9dcde8ad2722bcd63fafc956d7c14cf5
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\dell\\Desktop\\and-nd-firebase-1.00-starting-point\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ee52cec0e0b21e88965f5b51f934b5d5361f277d\\classes.dex
+base.1=C\:\\Users\\dell\\Desktop\\and-nd-firebase-1.00-starting-point\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ee52cec0e0b21e88965f5b51f934b5d5361f277d
+file.0=C\:\\Users\\dell\\Desktop\\and-nd-firebase-1.00-starting-point\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ce699c1a9dcde8ad2722bcd63fafc956d7c14cf5\\classes.dex
