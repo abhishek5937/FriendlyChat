@@ -4,7 +4,7 @@ This repository contains code for the FriendlyChat project in the [Firebase in a
 
 ## Overview
 
-FriendlyChat is an app that allows users to send and receive text and photos in realtime across platforms.
+FriendlyChat is an Android app that allows users to send and receive text and photos in realtime across platforms.
 
 ## Setup
 
